@@ -1,0 +1,19 @@
+{
+  "name": "jest-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testRegex": "(/__tests__/.*|\\.(test|spec))\\.(js|coffee)$"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.10.0",
+    "jest": "^15.1.1"
+  }
+}
